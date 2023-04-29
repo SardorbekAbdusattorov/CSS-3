@@ -1,0 +1,15 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+p {
+    background-color: lightblue;
+    color: black;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin: 20px;
+    padding: 10px;
+}
+
+.text4  {
+    background-color: rgb(201, 228, 237);
+}
